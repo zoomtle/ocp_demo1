@@ -10,7 +10,7 @@
       "iconClass": "icon-nginx",
       "openshift.io/long-description": "This template defines resources needed to develop a static application served by Nginx HTTP server and a reverse proxy (nginx), including a build configuration and application deployment configuration.",
       "openshift.io/provider-display-name": "Red Hat, Inc.",
-      "openshift.io/documentation-url": "https://github.com/sclorg/nginx-ex",
+      "openshift.io/documentation-url": "https://github.com/zoomtle/ocp_demo1",
       "openshift.io/support-url": "https://access.redhat.com"
     }
   },
@@ -242,7 +242,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "https://github.com/sclorg/nginx-ex.git"
+      "value": "https://github.com/zoomtle/ocp_demo1.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
